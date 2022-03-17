@@ -1,0 +1,12 @@
+{
+  "name": "zenn-dev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ikhrnet/zenn-dev.git",
+  "author": "ikhrnet <ikhrnet@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "zenn-cli": "^0.1.107"
+  },
+  "packageManager": "yarn@3.2.0"
+}
