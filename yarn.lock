@@ -1476,7 +1476,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"prismjs@npm:^1.26.0":
+"prismjs@npm:^1.27.0":
   version: 1.27.0
   resolution: "prismjs@npm:1.27.0"
   checksum: 85c7f4a3e999073502cc9e1882af01e3709706369ec254b60bff1149eda701f40d02512acab956012dc7e61cfd61743a3a34c1bd0737e8dbacd79141e5698bbc
@@ -1946,9 +1946,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"zenn-cli@npm:^0.1.107":
-  version: 0.1.107
-  resolution: "zenn-cli@npm:0.1.107"
+"zenn-cli@npm:latest":
+  version: 0.1.108
+  resolution: "zenn-cli@npm:0.1.108"
   dependencies:
     arg: ^5.0.0
     cheerio: ^1.0.0-rc.10
@@ -1964,10 +1964,10 @@ __metadata:
     node-fetch: ^2.6.7
     open: ^8.2.0
     ws: ^7.4.6
-    zenn-markdown-html: ^0.1.107
+    zenn-markdown-html: ^0.1.108
   bin:
     zenn: dist/server/zenn.js
-  checksum: 226ccbadeb60c40f3408c42e5500e57617c26f081532aa810642ba2bab4d2282ccaaf98d93c9e437442a5c1a732836282434d07460c4fb6b3f699d97a4027cc1
+  checksum: d3e209af3b58c0a11d3f36178fda7b04ccc82f941122a832962b44648983b7a750c9bc7f244f0e1a8efb303f8efc739063f3708ee586c934fba5283880b62318
   languageName: node
   linkType: hard
 
@@ -1975,13 +1975,13 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "zenn-dev@workspace:."
   dependencies:
-    zenn-cli: ^0.1.107
+    zenn-cli: latest
   languageName: unknown
   linkType: soft
 
-"zenn-markdown-html@npm:^0.1.107":
-  version: 0.1.107
-  resolution: "zenn-markdown-html@npm:0.1.107"
+"zenn-markdown-html@npm:^0.1.108":
+  version: 0.1.108
+  resolution: "zenn-markdown-html@npm:0.1.108"
   dependencies:
     "@steelydylan/markdown-it-imsize": ^1.0.2
     markdown-it: ^12.3.2
@@ -1991,7 +1991,7 @@ __metadata:
     markdown-it-inline-comments: ^1.0.1
     markdown-it-link-attributes: ^3.0.0
     markdown-it-task-lists: ^2.1.1
-    prismjs: ^1.26.0
-  checksum: efc16b191590d353bb576539d843bc7a66f25e2a1e44c076ac9de210ca1d0a5f95066f85f4c220035a2b9e101012d526ae4bfa3400594778dbb00f0dd56938fe
+    prismjs: ^1.27.0
+  checksum: 18353fe21816c8dceeef3ff642f0b1f92d0d51eb653ebee37d9ca711b930180ca1f8accca62e1ff7842a50d882aec3abec593bfbc6519f63c0e010e1ff369bb4
   languageName: node
   linkType: hard
