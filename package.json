@@ -6,7 +6,7 @@
   "author": "ikhrnet <ikhrnet@users.noreply.github.com>",
   "license": "MIT",
   "dependencies": {
-    "zenn-cli": "latest"
+    "zenn-cli": "^0.1.109"
   },
   "packageManager": "yarn@3.2.0"
 }
